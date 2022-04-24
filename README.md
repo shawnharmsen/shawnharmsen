@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Backup of chainlist.org maintained here: https://www.wzkp.xyz/
+Backup of chainlist.org maintained here: https://chainlist.one/
 
 <!--
 **shawnharmsen/shawnharmsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
