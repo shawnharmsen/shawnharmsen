@@ -2,6 +2,13 @@
 
 chainlist.org mirror maintained - https://chainlist.one/
 
+#### Testnet faucets
+- Paradigm faucet - https://faucet.paradigm.xyz/
+- Chainlink faucet - https://faucets.chain.link/
+- Alchemy Rinkeby faucet - https://rinkebyfaucet.com/
+- Alchemy Goerli faucet - https://goerlifaucet.com/
+- Alchemy Mumbai faucet - https://mumbaifaucet.com/
+
 <!--
 **shawnharmsen/shawnharmsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
