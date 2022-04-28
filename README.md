@@ -8,6 +8,7 @@ chainlist.org mirror maintained - https://chainlist.one/
 - Alchemy Rinkeby faucet - https://rinkebyfaucet.com/
 - Alchemy Goerli faucet - https://goerlifaucet.com/
 - Alchemy Mumbai faucet - https://mumbaifaucet.com/
+- MyCrypto Rinkeby faucet - https://app.mycrypto.com/faucet
 
 <!--
 **shawnharmsen/shawnharmsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
