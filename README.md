@@ -3,12 +3,15 @@
 chainlist.org mirror maintained - https://chainlist.one/
 
 #### Testnet faucets
-- Paradigm faucet - https://faucet.paradigm.xyz/
-- Chainlink faucet - https://faucets.chain.link/
-- Alchemy Rinkeby faucet - https://rinkebyfaucet.com/
-- Alchemy Goerli faucet - https://goerlifaucet.com/
-- Alchemy Mumbai faucet - https://mumbaifaucet.com/
-- MyCrypto Rinkeby faucet - https://app.mycrypto.com/faucet
+- Paradigm - https://faucet.paradigm.xyz/
+- Chainlink - https://faucets.chain.link/
+- Alchemy Rinkeby - https://rinkebyfaucet.com/
+- Alchemy Goerli - https://goerlifaucet.com/
+- Alchemy Mumbai - https://mumbaifaucet.com/
+- MyCrypto Rinkeby - https://app.mycrypto.com/faucet
+- Fantom Opera - https://faucet.fantom.network/
+- AVAX Fuji - https://faucet.avax-test.network/
+- Polygon - https://faucet.polygon.technology/
 
 <!--
 **shawnharmsen/shawnharmsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
