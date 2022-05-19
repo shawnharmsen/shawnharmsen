@@ -12,6 +12,7 @@ chainlist.org mirror maintained - https://chainlist.one/
 - Fantom Opera - https://faucet.fantom.network/
 - AVAX Fuji - https://faucet.avax-test.network/
 - Polygon - https://faucet.polygon.technology/
+- Sepolia - https://faucet.sepolia.dev/
 
 wiki - https://start.me/p/onpMnY/wiki
 
