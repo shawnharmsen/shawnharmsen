@@ -4,15 +4,11 @@ chainlist.org mirror maintained - https://chainlist.one/
 
 #### Testnet faucets
 - Paradigm - https://faucet.paradigm.xyz/
-- Chainlink - https://faucets.chain.link/
-- Alchemy Rinkeby - https://rinkebyfaucet.com/
-- Alchemy Goerli - https://goerlifaucet.com/
-- Alchemy Mumbai - https://mumbaifaucet.com/
-- MyCrypto Rinkeby - https://app.mycrypto.com/faucet
-- Fantom Opera - https://faucet.fantom.network/
-- AVAX Fuji - https://faucet.avax-test.network/
-- Polygon - https://faucet.polygon.technology/
-- Sepolia - https://faucet.sepolia.dev/
+- Rinkeby by Alchemy - https://rinkebyfaucet.com/
+- Goerli by Alchemy - https://goerlifaucet.com/
+- Goerli by [@Mudit__Gupta](https://twitter.com/Mudit__Gupta) - https://goerli-faucet.mudit.blog/
+- Mumbai by Alchemy - https://mumbaifaucet.com/
+- Sepolia by [@Dock_Boss](https://twitter.com/Dock_Boss) & [@parithosh_j](https://twitter.com/parithosh_j) - https://faucet.sepolia.dev/
 
 wiki - https://start.me/p/onpMnY/wiki
 
