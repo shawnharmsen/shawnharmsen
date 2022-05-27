@@ -9,7 +9,7 @@ chainlist.org mirror maintained - https://chainlist.one/
 - Goerli by [@Mudit__Gupta](https://twitter.com/Mudit__Gupta) - https://goerli-faucet.mudit.blog/
 - Mumbai by Alchemy - https://mumbaifaucet.com/
 - Sepolia by [@Dock_Boss](https://twitter.com/Dock_Boss) & [@parithosh_j](https://twitter.com/parithosh_j) - https://faucet.sepolia.dev/
-
+- Kiln by Alchemy - https://kilnfaucet.com/
 wiki - https://start.me/p/onpMnY/wiki
 
 <!--
