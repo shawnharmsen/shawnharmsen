@@ -6,6 +6,7 @@ chainlist.org mirror maintained - https://chainlist.one/
 - Paradigm - https://faucet.paradigm.xyz/
 - Goerli by Alchemy - https://goerlifaucet.com/
 - Goerli PoW by [@pk910](https://github.com/pk910/PoWFaucet) - https://goerli-faucet.pk910.de/
+- Sepolia PoW by [@pk910](https://github.com/pk910/PoWFaucet) - https://sepolia-faucet.pk910.de/
 - Sepolia by [@Dock_Boss](https://twitter.com/Dock_Boss) & [@parithosh_j](https://twitter.com/parithosh_j) - https://faucet.sepolia.dev/
 - Mumbai by Alchemy - https://mumbaifaucet.com/
 
