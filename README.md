@@ -12,6 +12,7 @@ chainlist.org mirror maintained - https://chainlist.one/
 - Shandong PoW by [@pk910](https://github.com/pk910/PoWFaucet) - https://shandong-faucet.pk910.de/ 
 - Faucet Link - https://faucetlink.to/goerli
 - Awesome list of testnet faucets - https://github.com/arddluma/awesome-list-testnet-faucets
+- collect 10 Goerli/Sepolia ETH if you deployed >= 1 contract before November 15, 2022 - https://collect-test-eth.org/
 
 wiki - https://start.me/p/onpMnY/wiki
 
