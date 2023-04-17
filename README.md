@@ -13,6 +13,8 @@ chainlist.org mirror maintained - https://chainlist.one/
 - Faucet Link - https://faucetlink.to/goerli
 - Awesome list of testnet faucets - https://github.com/arddluma/awesome-list-testnet-faucets
 - collect 10 Goerli/Sepolia ETH if you deployed >= 1 contract before November 15, 2022 - https://collect-test-eth.org/
+- wenmerge goerli - https://goerli.dev/
+- wenmerge sepolia - https://sepolia.dev/ 
 
 wiki - https://start.me/p/onpMnY/wiki
 
