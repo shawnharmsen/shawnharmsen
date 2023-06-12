@@ -18,6 +18,8 @@ chainlist.org mirror maintained - https://chainlist.one/
 
 wiki - https://start.me/p/onpMnY/wiki
 
+![shawnharmsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnharmsen&show_icons=true&theme=radical)
+
 <!--
 **shawnharmsen/shawnharmsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
