@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](/github-metrics.svg)
+
 chainlist.org mirror maintained - https://chainlist.one/
 
 #### Testnet faucets
