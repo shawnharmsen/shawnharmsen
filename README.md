@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 chainlist.org mirror maintained - https://chainlist.one/
 
