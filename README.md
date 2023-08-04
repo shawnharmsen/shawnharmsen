@@ -19,9 +19,9 @@ chainlist.org mirror maintained - https://chainlist.one/
 wiki - https://start.me/p/onpMnY/wiki
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/shawnharmsen/degen/issues/41#issuecomment-1664700792) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-2. 🎉 Merged PR [#42](https://github.com/shawnharmsen/degen/pull/42) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-3. ❗ Opened issue [#41](https://github.com/shawnharmsen/degen/issues/41) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-4. 🎉 Merged PR [#40](https://github.com/shawnharmsen/degen/pull/40) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-5. 🎉 Merged PR [#39](https://github.com/shawnharmsen/degen/pull/39) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+1. 🎉 Merged PR [#44](https://github.com/shawnharmsen/degen/pull/44) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+2. 🎉 Merged PR [#43](https://github.com/shawnharmsen/degen/pull/43) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+3. 🗣 Commented on [#41](https://github.com/shawnharmsen/degen/issues/41#issuecomment-1664700792) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+4. 🎉 Merged PR [#42](https://github.com/shawnharmsen/degen/pull/42) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+5. ❗ Opened issue [#41](https://github.com/shawnharmsen/degen/issues/41) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
 <!--END_SECTION:activity-->
