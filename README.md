@@ -19,9 +19,9 @@ chainlist.org mirror maintained - https://chainlist.one/
 wiki - https://start.me/p/onpMnY/wiki
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/paradigmxyz/cryo/issues/4#issuecomment-1670823438) in [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo)
-2. 🎉 Merged PR [#45](https://github.com/shawnharmsen/degen/pull/45) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-3. 🎉 Merged PR [#44](https://github.com/shawnharmsen/degen/pull/44) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-4. 🎉 Merged PR [#43](https://github.com/shawnharmsen/degen/pull/43) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-5. 🗣 Commented on [#41](https://github.com/shawnharmsen/degen/issues/41#issuecomment-1664700792) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+1. 🎉 Merged PR [#46](https://github.com/shawnharmsen/degen/pull/46) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+2. 🎉 Merged PR [#14](https://github.com/shawnharmsen/braindump/pull/14) in [shawnharmsen/braindump](https://github.com/shawnharmsen/braindump)
+3. 🗣 Commented on [#4](https://github.com/paradigmxyz/cryo/issues/4#issuecomment-1670823438) in [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo)
+4. 🎉 Merged PR [#45](https://github.com/shawnharmsen/degen/pull/45) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+5. 🎉 Merged PR [#44](https://github.com/shawnharmsen/degen/pull/44) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
 <!--END_SECTION:activity-->
