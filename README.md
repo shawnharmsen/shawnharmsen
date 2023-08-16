@@ -19,9 +19,9 @@ chainlist.org mirror maintained - https://chainlist.one/
 wiki - https://start.me/p/onpMnY/wiki
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#154](https://github.com/indexsupply/x/pull/154) in [indexsupply/x](https://github.com/indexsupply/x)
-2. 🗣 Commented on [#154](https://github.com/indexsupply/x/pull/154#issuecomment-1679997732) in [indexsupply/x](https://github.com/indexsupply/x)
-3. 🗣 Commented on [#154](https://github.com/indexsupply/x/pull/154#issuecomment-1679985057) in [indexsupply/x](https://github.com/indexsupply/x)
-4. 💪 Opened PR [#154](https://github.com/indexsupply/x/pull/154) in [indexsupply/x](https://github.com/indexsupply/x)
-5. 🎉 Merged PR [#49](https://github.com/shawnharmsen/degen/pull/49) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+1. 🎉 Merged PR [#51](https://github.com/shawnharmsen/degen/pull/51) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+2. 🎉 Merged PR [#50](https://github.com/shawnharmsen/degen/pull/50) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+3. ❌ Closed PR [#154](https://github.com/indexsupply/x/pull/154) in [indexsupply/x](https://github.com/indexsupply/x)
+4. 🗣 Commented on [#154](https://github.com/indexsupply/x/pull/154#issuecomment-1679997732) in [indexsupply/x](https://github.com/indexsupply/x)
+5. 🗣 Commented on [#154](https://github.com/indexsupply/x/pull/154#issuecomment-1679985057) in [indexsupply/x](https://github.com/indexsupply/x)
 <!--END_SECTION:activity-->
