@@ -19,9 +19,9 @@ chainlist.org mirror maintained - https://chainlist.one/
 wiki - https://start.me/p/onpMnY/wiki
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/shawnharmsen/degen/pull/51) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-2. 🎉 Merged PR [#50](https://github.com/shawnharmsen/degen/pull/50) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-3. ❌ Closed PR [#154](https://github.com/indexsupply/x/pull/154) in [indexsupply/x](https://github.com/indexsupply/x)
-4. 🗣 Commented on [#154](https://github.com/indexsupply/x/pull/154#issuecomment-1679997732) in [indexsupply/x](https://github.com/indexsupply/x)
-5. 🗣 Commented on [#154](https://github.com/indexsupply/x/pull/154#issuecomment-1679985057) in [indexsupply/x](https://github.com/indexsupply/x)
+1. 🗣 Commented on [#5](https://github.com/paradigmxyz/cryo/issues/5#issuecomment-1682060894) in [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo)
+2. 🎉 Merged PR [#53](https://github.com/shawnharmsen/degen/pull/53) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+3. 🎉 Merged PR [#52](https://github.com/shawnharmsen/degen/pull/52) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+4. 🎉 Merged PR [#16](https://github.com/shawnharmsen/braindump/pull/16) in [shawnharmsen/braindump](https://github.com/shawnharmsen/braindump)
+5. 🎉 Merged PR [#51](https://github.com/shawnharmsen/degen/pull/51) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
 <!--END_SECTION:activity-->
