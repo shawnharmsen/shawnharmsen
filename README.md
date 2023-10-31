@@ -19,9 +19,9 @@ chainlist.org mirror maintained - https://chainlist.one/
 wiki - https://start.me/p/onpMnY/wiki
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/shawnharmsen/degen/pull/80) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-2. 🎉 Merged PR [#79](https://github.com/shawnharmsen/degen/pull/79) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-3. 🎉 Merged PR [#78](https://github.com/shawnharmsen/degen/pull/78) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-4. 🎉 Merged PR [#77](https://github.com/shawnharmsen/degen/pull/77) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-5. 🎉 Merged PR [#76](https://github.com/shawnharmsen/degen/pull/76) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+1. ❗ Opened issue [#189](https://github.com/indexsupply/x/issues/189) in [indexsupply/x](https://github.com/indexsupply/x)
+2. 🗣 Commented on [#2678](https://github.com/TrueBlocks/trueblocks-core/issues/2678#issuecomment-1786311410) in [TrueBlocks/trueblocks-core](https://github.com/TrueBlocks/trueblocks-core)
+3. 🎉 Merged PR [#80](https://github.com/shawnharmsen/degen/pull/80) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+4. 🎉 Merged PR [#79](https://github.com/shawnharmsen/degen/pull/79) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+5. 🎉 Merged PR [#78](https://github.com/shawnharmsen/degen/pull/78) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
 <!--END_SECTION:activity-->
