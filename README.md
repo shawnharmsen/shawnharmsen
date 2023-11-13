@@ -19,9 +19,9 @@ chainlist.org mirror maintained - https://chainlist.one/
 wiki - https://start.me/p/onpMnY/wiki
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/shawnharmsen/chainscan/issues/1) in [shawnharmsen/chainscan](https://github.com/shawnharmsen/chainscan)
-2. 🎉 Merged PR [#18](https://github.com/shawnharmsen/braindump/pull/18) in [shawnharmsen/braindump](https://github.com/shawnharmsen/braindump)
-3. 🎉 Merged PR [#83](https://github.com/shawnharmsen/degen/pull/83) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-4. 🗣 Commented on [#189](https://github.com/indexsupply/x/issues/189#issuecomment-1803862035) in [indexsupply/x](https://github.com/indexsupply/x)
-5. 🎉 Merged PR [#82](https://github.com/shawnharmsen/degen/pull/82) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+1. 🎉 Merged PR [#84](https://github.com/shawnharmsen/degen/pull/84) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+2. 🔒 Closed issue [#1](https://github.com/shawnharmsen/chainscan/issues/1) in [shawnharmsen/chainscan](https://github.com/shawnharmsen/chainscan)
+3. 🎉 Merged PR [#18](https://github.com/shawnharmsen/braindump/pull/18) in [shawnharmsen/braindump](https://github.com/shawnharmsen/braindump)
+4. 🎉 Merged PR [#83](https://github.com/shawnharmsen/degen/pull/83) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+5. 🗣 Commented on [#189](https://github.com/indexsupply/x/issues/189#issuecomment-1803862035) in [indexsupply/x](https://github.com/indexsupply/x)
 <!--END_SECTION:activity-->
