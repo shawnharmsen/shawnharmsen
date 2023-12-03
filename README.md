@@ -19,9 +19,9 @@ chainlist.org mirror maintained - https://chainlist.one/
 wiki - https://start.me/p/onpMnY/wiki
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/shawnharmsen/degen/pull/90) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-2. 🎉 Merged PR [#89](https://github.com/shawnharmsen/degen/pull/89) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-3. 🎉 Merged PR [#88](https://github.com/shawnharmsen/degen/pull/88) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-4. ❌ Closed PR [#20](https://github.com/shawnharmsen/braindump/pull/20) in [shawnharmsen/braindump](https://github.com/shawnharmsen/braindump)
-5. 🎉 Merged PR [#19](https://github.com/shawnharmsen/braindump/pull/19) in [shawnharmsen/braindump](https://github.com/shawnharmsen/braindump)
+1. 🗣 Commented on [#2](https://github.com/protolambda/grug-wallet/pull/2#issuecomment-1837568671) in [protolambda/grug-wallet](https://github.com/protolambda/grug-wallet)
+2. 💪 Opened PR [#2](https://github.com/protolambda/grug-wallet/pull/2) in [protolambda/grug-wallet](https://github.com/protolambda/grug-wallet)
+3. 🎉 Merged PR [#90](https://github.com/shawnharmsen/degen/pull/90) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+4. 🎉 Merged PR [#89](https://github.com/shawnharmsen/degen/pull/89) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+5. 🎉 Merged PR [#88](https://github.com/shawnharmsen/degen/pull/88) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
 <!--END_SECTION:activity-->
