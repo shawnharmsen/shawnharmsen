@@ -19,9 +19,9 @@ chainlist.org mirror maintained - https://chainlist.one/
 wiki - https://start.me/p/onpMnY/wiki
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/shawnharmsen/degen/pull/121) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-2. 🎉 Merged PR [#120](https://github.com/shawnharmsen/degen/pull/120) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-3. 🎉 Merged PR [#117](https://github.com/shawnharmsen/degen/pull/117) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-4. 🎉 Merged PR [#118](https://github.com/shawnharmsen/degen/pull/118) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
-5. 🎉 Merged PR [#119](https://github.com/shawnharmsen/degen/pull/119) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+1. 🎉 Merged PR [#122](https://github.com/shawnharmsen/degen/pull/122) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+2. 🎉 Merged PR [#121](https://github.com/shawnharmsen/degen/pull/121) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+3. 🎉 Merged PR [#120](https://github.com/shawnharmsen/degen/pull/120) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+4. 🎉 Merged PR [#117](https://github.com/shawnharmsen/degen/pull/117) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
+5. 🎉 Merged PR [#118](https://github.com/shawnharmsen/degen/pull/118) in [shawnharmsen/degen](https://github.com/shawnharmsen/degen)
 <!--END_SECTION:activity-->
